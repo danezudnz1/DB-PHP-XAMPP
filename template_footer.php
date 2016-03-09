@@ -1,0 +1,1 @@
+<div  align="center"id="pageFooter">Copyright | Termeni si conditii | Despre noi</div>

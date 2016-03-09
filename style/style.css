@@ -1,0 +1,35 @@
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333;
+	line-height:1.5em;
+}
+a {
+	font-size: 14px;
+	color: #03F;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #03F;
+}
+a:hover {
+	text-decoration: none;
+	color: #000;
+}
+a:active {
+	text-decoration: none;
+	color: #03F;
+	font-size: 10px;
+}
+#pageHeader{
+	color:#F00;
+	}
+#pageContent{
+	color:#090;
+	}
+#pageFooter{
+	color:	#000000;
+	}
